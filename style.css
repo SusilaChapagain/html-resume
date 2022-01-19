@@ -124,9 +124,11 @@ nav{
     border-radius:0 30px 0 0 ;
     margin: 30px 80px;
     margin-bottom: 50px;
-    background:transparent;
+    background:#fae1dd; transparent;
     left: 0;
     transition: 0.8s;
+    padding: 1rem 1rem;
+    text-align: justify;
     
 }
 .about-me:hover{
@@ -140,7 +142,7 @@ nav{
     margin: 30px 80px;
     margin-bottom: 50px;
     text-align: center;
-    background:transparent;
+    background: #fae1dd;;transparent;
     transition: 0.8s;
     
 }
