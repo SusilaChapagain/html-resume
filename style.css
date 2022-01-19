@@ -124,7 +124,7 @@ nav{
     border-radius:0 30px 0 0 ;
     margin: 30px 80px;
     margin-bottom: 50px;
-    background:#fae1dd; transparent;
+    background:#fae1dd; 
     left: 0;
     transition: 0.8s;
     padding: 1rem 1rem;
@@ -142,7 +142,7 @@ nav{
     margin: 30px 80px;
     margin-bottom: 50px;
     text-align: center;
-    background: #fae1dd;;transparent;
+    background: #fae1dd;
     transition: 0.8s;
     
 }
@@ -156,7 +156,34 @@ nav{
 .intro{
     color: #0A2F35;
 }
+    /* -----resume----- */
 
+.resume{
+    height:40vh;
+    border: 2px #0A2F35 solid;
+    border-radius:0 30px 0 0 ;
+    margin: 30px 80px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: #fae1dd;
+    transition: 0.8s;
+}
+
+
+.projects{
+    height:40vh;
+    border: 2px #0A2F35 solid;
+    border-radius:0 30px 0 0 ;
+    margin: 30px 80px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: #fae1dd;
+    transition: 0.8s;
+}
+
+.projects:hover{
+    background:#a2d2ff;   
+}
 
 /* contact */
 .contact{
